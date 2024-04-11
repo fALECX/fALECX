@@ -1,6 +1,8 @@
 ### Hi there 👋
+🔭 I’m currently working on a educational game raising awareness to Microsofts SDL practices
+🌱 I’m currently learning how to use Github Copilot lol
 
-<!--
+
 **fALECX/fALECX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
