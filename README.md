@@ -1,4 +1,5 @@
-### Hi there 👋
-🔭 I’m currently working on a educational game raising awareness to Microsofts SDL practices
-🌱 I’m currently learning how to use Github Copilot lol
+Business Informatics - Software Developer - Frontend & Backennd
 
+University of Applied Sciences Ulm
+University of Applied Sciences Neu-Ulm
+NOVA IMS Blockchain Lab
