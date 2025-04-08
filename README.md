@@ -1,5 +1,11 @@
-Business Informatics - Software Developer - Frontend & Backennd
+💼 **Software Developer | Business Informatics Professional**  
+**Specializing in:** Frontend & Backend Development
 
-University of Applied Sciences Ulm
-University of Applied Sciences Neu-Ulm
-NOVA IMS Blockchain Lab
+🎓 **Education**  
+• University of Applied Sciences Ulm  
+• University of Applied Sciences Neu-Ulm  
+
+💡 **Experience**  
+• NOVA IMS Blockchain Lab
+
+I build robust and innovative digital solutions.
