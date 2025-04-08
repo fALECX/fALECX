@@ -3,9 +3,11 @@
 
 🎓 **Education**  
 • University of Applied Sciences Ulm  
-• University of Applied Sciences Neu-Ulm  
-
-💡 **Experience**  
+• University of Applied Sciences Neu-Ulm 
 • NOVA IMS Blockchain Lab
 
-I build robust and innovative digital solutions.
+💡 **Experience**  
+• Software Dev @Bosch
+• Ex Esports Pro 
+• World Championsship Commentator & Event Host
+
