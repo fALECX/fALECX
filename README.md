@@ -15,6 +15,4 @@ Projects:
 • Ex Esports Pro 
 • World Championsship Commentator & Event Host
 
-Projects:
-[TOP1.TRADE](https://www.top1.trade)
 
