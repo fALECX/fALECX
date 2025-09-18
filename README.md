@@ -12,5 +12,5 @@
 • World Championsship Commentator & Event Host
 
 Projects:
-[TOP1.TRADE](top1.trade)
+[TOP1.TRADE](https://www.top1.trade)
 
