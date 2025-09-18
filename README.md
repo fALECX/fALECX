@@ -1,3 +1,7 @@
+Projects:
+[🥇 TOP1.TRADE](https://www.top1.trade)
+[🪫 LIVE CRYPTO ENERGY USAGE](https://crypto-energy-usage.vercel.app/)
+
 💼 **Software Developer | Business Informatics Professional**  
 **Specializing in:** Frontend & Backend Development
 
