@@ -11,3 +11,6 @@
 • Ex Esports Pro 
 • World Championsship Commentator & Event Host
 
+Projects:
+[TOP1.TRADE](top1.trade)
+
