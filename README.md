@@ -1,4 +1,5 @@
 🤖 Agentic Coding • AI Automations • Autonomous Systems
+
 ⚙️ Freelance Engineer building 24/7 scalable workflows
 
 📊 Business Informatics • Data Analytics • Applied AI
