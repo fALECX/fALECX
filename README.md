@@ -1,10 +1,5 @@
-• 🤖 Agentic Coding & Automations
-• 🚀 Freelancing • Building 24/7 Systems
+• 🤖 Agentic Coding • AI Driven Automations • Autonomous Systems
+• ⚙️ Freelance Engineer • Building 24/7 Scalable Workflows
+• 📊 Business Informatics • Data Analytics • Applied AI
 • 🏢 @bosch @nova IMS @hnu @thu
 • 🎮 Ex Esports Pro • 🎤 Commentator • 🎙 Event Host
-
-[TOP1.TRADE](https://www.top1.trade)
-
-
-
-
