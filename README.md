@@ -3,8 +3,7 @@
 • 🏢 @bosch @nova IMS @hnu @thu
 • 🎮 Ex Esports Pro • 🎤 Commentator • 🎙 Event Host
 
-Check out:
-[🥇 TOP1.TRADE](https://www.top1.trade)
+[TOP1.TRADE](https://www.top1.trade)
 
 
 
